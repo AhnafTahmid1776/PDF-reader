@@ -1,8 +1,6 @@
-```bash
-   
-   ```
 
-   # PDF Reader with AI-enabled Voice
+
+# PDF Reader with AI-enabled Voice
 
 A Python application that leverages PyPDF2 for PDF processing and pyttsx3 for AI-enabled voice synthesis, allowing users to extract and listen to text content from any PDF document.
 Features
@@ -11,7 +9,7 @@ Features
     AI-enabled Voice Synthesis: Employs pyttsx3 to provide a natural-sounding voice for reading the extracted text.
     User-friendly Interface: Offers a simple and intuitive interface for interacting with PDFs and listening to content.
 
-# Installation
+Installation: 
 
 1. Clone the repository:
 
@@ -19,12 +17,10 @@ Features
    git clone https://github.com/your-username/pdf-reader-ai.git
    ```
 
-   
-    
 2. Navigate to the project directory:
 
     ```bash
-      cd PDF-reader
+    cd PDF-reader
    
     ```
 
@@ -32,21 +28,18 @@ Features
 
 
     ```bash
-      pip install -r requirements.txt
+    pip install -r requirements.txt
    
     ```
     
 
-# Usage
+Usage
 
-    Run the PDF Reader:
+Run the PDF Reader: Open a PDF file using the application's interface.Use the provided controls to extract and listen to text content.
 
     ```bash
    main.py
    ```
-
-Open a PDF file using the application's interface.Use the provided controls to extract and listen to text content.
-
 
 # Dependencies
 
