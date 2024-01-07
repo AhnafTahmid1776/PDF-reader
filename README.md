@@ -38,7 +38,7 @@ Usage
 Run the PDF Reader: Open a PDF file using the application's interface.Use the provided controls to extract and listen to text content.
 
     ```bash
-    main.py
+     main.py
     ```
 
 Dependencies
