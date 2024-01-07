@@ -42,6 +42,7 @@ Installation:
 Dependencies
 
 PyPDF2: For PDF processing.
+
 pyttsx3: For AI-enabled voice synthesis.
 
 Contributing
