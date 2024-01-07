@@ -31,25 +31,23 @@ Installation:
     pip install -r requirements.txt
    
     ```
-    
 
-Usage
 
-Run the PDF Reader: Open a PDF file using the application's interface.Use the provided controls to extract and listen to text content.
+4. Run the PDF reader file
 
     ```bash
-     main.py
+    main.py
     ```
 
 Dependencies
 
-    PyPDF2: For PDF processing.
-    pyttsx3: For AI-enabled voice synthesis.
+PyPDF2: For PDF processing.
+pyttsx3: For AI-enabled voice synthesis.
 
 Contributing
 
-    Contributions are welcome! Feel free to open issues or submit pull requests for improvements, bug fixes, or new features. Please follow our contribution guidelines.
+Contributions are welcome! Feel free to open issues or submit pull requests for improvements, bug fixes, or new features. Please follow our contribution guidelines.
 
 License
 
-    This project is licensed under the MIT License.
+This project is licensed under the MIT License.
