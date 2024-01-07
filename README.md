@@ -38,18 +38,18 @@ Usage
 Run the PDF Reader: Open a PDF file using the application's interface.Use the provided controls to extract and listen to text content.
 
     ```bash
-   main.py
-   ```
+    main.py
+    ```
 
-# Dependencies
+Dependencies
 
     PyPDF2: For PDF processing.
     pyttsx3: For AI-enabled voice synthesis.
 
-# Contributing
+Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests for improvements, bug fixes, or new features. Please follow our contribution guidelines.
+    Contributions are welcome! Feel free to open issues or submit pull requests for improvements, bug fixes, or new features. Please follow our contribution guidelines.
 
-# License
+License
 
-This project is licensed under the MIT License.
+    This project is licensed under the MIT License.
