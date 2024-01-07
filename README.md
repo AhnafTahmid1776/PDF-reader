@@ -41,14 +41,14 @@ Installation:
 
 Dependencies
 
-PyPDF2: For PDF processing.
+    PyPDF2: For PDF processing.
 
-pyttsx3: For AI-enabled voice synthesis.
+    pyttsx3: For AI-enabled voice synthesis.
 
 Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests for improvements, bug fixes, or new features. Please follow our contribution guidelines.
+    Contributions are welcome! Feel free to open issues or submit pull requests for improvements, bug fixes, or new features. Please follow our contribution guidelines.
 
 License
 
-This project is licensed under the MIT License.
+    This project is licensed under the MIT License.
