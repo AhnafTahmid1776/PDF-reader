@@ -11,20 +11,20 @@ Features
 
 Installation
 
-1. Clone the repository:
+1. Clone the repository
 
     ```bash
    git clone https://github.com/your-username/pdf-reader-ai.git
    ```
 
-2. Navigate to the project directory:
+2. Navigate to the project directory
 
     ```bash
     cd PDF-reader
    
     ```
 
-3. Install dependencies:
+3. Install dependencies
 
 
     ```bash
