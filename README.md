@@ -9,7 +9,7 @@ Features
     AI-enabled Voice Synthesis: Employs pyttsx3 to provide a natural-sounding voice for reading the extracted text.
     User-friendly Interface: Offers a simple and intuitive interface for interacting with PDFs and listening to content.
 
-Installation: 
+Installation
 
 1. Clone the repository:
 
